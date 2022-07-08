@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tedadarghamadad/1.0.0": {
+        "runtime": {
+          "tedadarghamadad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tedadarghamadad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

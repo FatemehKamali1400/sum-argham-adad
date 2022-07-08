@@ -1,0 +1,15 @@
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\bin\Debug\net6.0\tedadarghamadad.exe
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\bin\Debug\net6.0\tedadarghamadad.deps.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\bin\Debug\net6.0\tedadarghamadad.runtimeconfig.json
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\bin\Debug\net6.0\tedadarghamadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\bin\Debug\net6.0\tedadarghamadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.csproj.AssemblyReference.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.AssemblyInfoInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.AssemblyInfo.cs
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.csproj.CoreCompileInputs.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\refint\tedadarghamadad.dll
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.pdb
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\tedadarghamadad.genruntimeconfig.cache
+C:\Users\Tohid Goudarzi\Desktop\javab tamrinat\tedadarghamadad\obj\Debug\net6.0\ref\tedadarghamadad.dll
